@@ -1,7 +1,7 @@
 
 # Intro
 
-Hi, my name is Andrés, I’m a student in Mexico City majoring in Applied Mathematics and Data Science at ITAM. I spend my time designing and experimenting with programs that produce interesting results.
+Hi, my name is Andrés, I’m a student majoring in Applied Mathematics and Data Science at ITAM. I spend my time designing and experimenting with programs that produce interesting results.
 
 I’m primarily interested in `interactive displays`, whether they are:
 
